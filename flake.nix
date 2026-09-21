@@ -16,7 +16,7 @@
       baseLib = inputs.peachRampSkateboard.baseLib;
       pkgsLib = inputs.peachRampSkateboard.pkgsLib;
       localPkgsArgs = { inherit baseLib pkgsLib; };
-      inductedPkgs = pkgsLib.fix (self: import ./colossusRhodes (localPkgsArgs // { localPkgs = self; }));
+      inductedPkgs = pkgsLib.fix (self: import ./russellShaveBasketball/ (localPkgsArgs // { localPkgs = self; }));
 
     in
     {
