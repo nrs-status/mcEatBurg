@@ -37,11 +37,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1789989195,
-        "narHash": "sha256-SmDImBk8hH9JX3IfNuZh3Hw2zVRZQjHFJ0iQwjQK4Eo=",
+        "lastModified": 1790076655,
+        "narHash": "sha256-iUK4/m84FKMj5DrFkc1k64djhGdoieMEioRTWLF9/cs=",
         "owner": "nrs-status",
         "repo": "newPeachRampSkateboard",
-        "rev": "badcc80459768063b026f401ce3c50410540799d",
+        "rev": "df28ccf5f26ac8b10892f2ca587f8a19d263602a",
         "type": "github"
       },
       "original": {
